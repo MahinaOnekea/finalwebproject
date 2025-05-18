@@ -1,0 +1,23 @@
+/*comment*/
+h1 { font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia }
+
+
+body { font-size: 20px;
+	background-color:Olive;
+	color: Wheat; 
+	text-align: center;
+	border: 4px solid Wheat;
+}
+
+h1 {
+	/*text color*/
+	color: Wheat;
+	font-size:2em;
+	margin-right: 40px;
+	padding-block: 20px;
+	text-align: center;
+}
+
+a {color: Cornsilk;
+font-size: 18px;
+}
